@@ -738,6 +738,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+@nmemonica/voice-ja v0.1.0 - undefined
+undefined
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
 @nmemonica/x-spreadsheet v0.1.2 - bryan
 git+https://github.com/bryanjimenez/x-spreadsheet.git
 --------------------------------------------------------------------------------
